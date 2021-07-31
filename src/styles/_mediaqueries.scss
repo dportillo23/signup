@@ -1,0 +1,20 @@
+@media (min-width: 840px) {
+
+    .App {
+        .wrapper {
+            max-width: 1440px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+            align-items: center;
+        }
+
+        .hero--container {
+            text-align: left;
+            flex-basis: 35%;
+            max-width: 430px;
+        }
+
+    }
+    
+}
